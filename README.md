@@ -1,2 +1,2 @@
 # NodejsProyect
-Nodejs reposotory for practicing
+Nodejs repository for practicing
